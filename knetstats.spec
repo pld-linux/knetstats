@@ -1,5 +1,5 @@
 Summary:	KNetStats - network monitor that show RX/TX LEDs
-Summary(pl):	KNetStats - monitor sieci pokazuj±cy diody RX/TX
+Summary(pl.UTF-8):   KNetStats - monitor sieci pokazujÄ…cy diody RX/TX
 Name:		knetstats
 Version:	1.6.1
 Release:	0.1
@@ -27,22 +27,22 @@ Features:
 - GPL'ed, you can use and modify for free (Following GPL conditions)
 - Carrier on/off detection.
 
-%description -l pl
-Prosty monitor sieci dla KDE pokazuj±cy w zasobniku systemowym diody
-RX/TX lub informacje liczbowe o szybko¶ci przesy³ania danych przez
-dowolny interfejs sieciowy. Jest to czê¶æ pakietu kde-extragear.
+%description -l pl.UTF-8
+Prosty monitor sieci dla KDE pokazujÄ…cy w zasobniku systemowym diody
+RX/TX lub informacje liczbowe o szybkoÅ›ci przesyÅ‚ania danych przez
+dowolny interfejs sieciowy. Jest to czÄ™Å›Ä‡ pakietu kde-extragear.
 
-Mo¿liwo¶ci:
-- pokazywanie aktywno¶ci sieci, szybko¶ci przesy³ania danych, wykresu
-  szybko¶ci, adresu IP, adresu MAC itp. dowolnego interfejsu
-  sieciowego (w³±cznie z loopbackiem)
-- obs³uga wielu interfejsów sieciowych
-- proste statystyki (pakiety i bajty odebrane i wys³ane)
-- konfigurowana czêstotliwo¶æ uaktualniania, tryb przegl±dania, motywy
+MoÅ¼liwoÅ›ci:
+- pokazywanie aktywnoÅ›ci sieci, szybkoÅ›ci przesyÅ‚ania danych, wykresu
+  szybkoÅ›ci, adresu IP, adresu MAC itp. dowolnego interfejsu
+  sieciowego (wÅ‚Ä…cznie z loopbackiem)
+- obsÅ‚uga wielu interfejsÃ³w sieciowych
+- proste statystyki (pakiety i bajty odebrane i wysÅ‚ane)
+- konfigurowana czÄ™stotliwoÅ›Ä‡ uaktualniania, tryb przeglÄ…dania, motywy
   ikon itp.
-- licencja GPL pozwalaj±ca u¿ywaæ i modyfikowaæ program bezp³atnie (na
+- licencja GPL pozwalajÄ…ca uÅ¼ywaÄ‡ i modyfikowaÄ‡ program bezpÅ‚atnie (na
   warunkach GPL)
-- wykrywanie obecno¶ci no¶nej
+- wykrywanie obecnoÅ›ci noÅ›nej
 
 %prep
 %setup -q
