@@ -1,5 +1,5 @@
 Summary:	KNetStats - network monitor that show RX/TX LEDs
-Summary(pl.UTF-8):   KNetStats - monitor sieci pokazujący diody RX/TX
+Summary(pl.UTF-8):	KNetStats - monitor sieci pokazujący diody RX/TX
 Name:		knetstats
 Version:	1.6.1
 Release:	0.1
